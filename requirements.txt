@@ -1,0 +1,14 @@
+flask
+opencv-python
+face_recognition
+numpy
+pandas
+openpyxl
+
+# runcode
+# cd face_attendance_app
+# pip install -r requirements.txt
+# python app.py
+
+# sau khi thu thap 
+# python utils/face_utils.py
